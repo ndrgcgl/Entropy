@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 using EntropyTests;
 using Xunit;
 
-namespace FunctionalTests.MvcTests
+namespace Entropy.FunctionalTests.MvcTests
 {
     public class GenericControllersTest : IClassFixture<SampleTestFixture<Mvc.GenericControllers.Startup>>
     {

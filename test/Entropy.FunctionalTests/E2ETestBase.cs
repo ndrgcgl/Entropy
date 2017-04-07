@@ -13,7 +13,7 @@ using Xunit;
 using Xunit.Abstractions;
 using Microsoft.AspNetCore.Server.IntegrationTesting.xunit;
 
-namespace EntropyTests
+namespace Entropy.FunctionalTests
 {
     public abstract class E2ETestBase : LoggedTest
     {

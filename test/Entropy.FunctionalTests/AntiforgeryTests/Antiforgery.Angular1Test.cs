@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 using Microsoft.Net.Http.Headers;
 using Xunit;
 
-namespace Microsoft.AspNetCore.Antiforgery.FunctionalTests
+namespace Entropy.FunctionalTests
 {
     public class AntiforgerySampleTests : IClassFixture<AntiForgeryAngular1TestFixture>
     {
